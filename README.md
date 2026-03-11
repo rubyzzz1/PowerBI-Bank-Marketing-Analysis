@@ -15,4 +15,5 @@ Based on your dashboard, what top actions should the bank take to improve the ne
      The "Conversion Ratio by Duration" chart shows a growth. Success rates are negligible under 3 minutes, and there is a raise once a conversation crosses the 5-minute mark. The sugget acttion is to involve a staff training.
   2. Prioritize "Mobile" & "Past Success" Leads
      The "Num of Success By Contacts Method" chart shows Cellular brings more successful outcomes. The suggest action is to emphasize the collection of mobile phone numbers during the initial intake process. This should be our primary contact field to ensure future marketing success. And call agents should adopt a relationship management to approach with previously successful clients.
-     
+  3.Target the "Debt-Free" Segment (such as Retired & No Housing)
+  The "Target Customer Discovery Path" highlights that retired segment with No Housing and Loan have a good success rate of over 38%, and they hold the large account balance. The suggest action is to launch a specific "Senior Savings" term deposit for seinor clients who have no outstanding loans.
